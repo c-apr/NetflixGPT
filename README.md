@@ -18,6 +18,11 @@ Currently, two official plugins are available:
 - Sign Up Form
 - Form Validation
 - useRef Hook
+- Firebase Setup
+- Deploying the App to Production
+- Create Sign Up user Account 
+- Implement Sign In User Api
+- Created Our Redux Store with userSlice
 
 
 # Features 
